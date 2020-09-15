@@ -9,6 +9,3 @@ make -j8
 sudo make install
 cd ..
 rm -rf build
-
-
-
